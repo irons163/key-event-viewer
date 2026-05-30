@@ -7,6 +7,12 @@ composition events, recreating the functionality of the
 Type into the input box and every event is logged into a color-coded table so
 you can inspect exactly what the browser dispatches.
 
+**Live site:** https://irons163.github.io/key-event-viewer/
+
+## Preview
+
+![Keyboard Event Viewer screenshot](docs/preview.png)
+
 ## Features
 
 - Captures all relevant events:
